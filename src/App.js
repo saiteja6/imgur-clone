@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar'
-import Searchbar from './components/Search'
+import ScrollAwareDiv from './components/Navtest'
+// import Searchbar from './components/Search'
 
 
 
@@ -14,8 +15,9 @@ function App() {
        
        
         
-      <Searchbar />
+      {/* <Searchbar /> */}
         <Navbar />
+        <ScrollAwareDiv />
       </header>
     </div>
   );
