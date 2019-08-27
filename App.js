@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar'
 import ScrollAwareDiv from './components/Navtest'
+import Cards from './components/Tags'
 // import Searchbar from './components/Search'
 
 
