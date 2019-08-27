@@ -18,6 +18,7 @@ function App() {
       {/* <Searchbar /> */}
         <Navbar />
         <ScrollAwareDiv />
+        <Cards />
       </header>
     </div>
   );
